@@ -1,5 +1,5 @@
 import axios from "axios";
-import "dotenv/config"
+
 
 // const { NODE_ENV } = process.env
 // const URL ="http://localhost:3001/api";
